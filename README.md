@@ -1,7 +1,9 @@
 Expense Tracker 
 ------------------------
+Wallet application to manage money
+With a dashboard for control and the ability to add and modify items
 
-Dashboard control of expense and income money
+
 build with:
 .NET Core 
 SQL Server
