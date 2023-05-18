@@ -11,7 +11,7 @@ Bootstrap
 -----------------------
 -Dashboard
 
-![expense-tracker-1](https://github.com/YamnJoha1/expense-tracker/assets/122623147/3441a66c-d8e9-4544-b33e-add5cf65e8ab)
+![expense-tracker-1](https://github.com/YamnJoha1/expense-tracker/assets/122623147/e3ddde4f-03ed-4170-a92d-6f416168712e)
 ![expense-tracker-2](https://github.com/YamnJoha1/expense-tracker/assets/122623147/d93550fd-c708-4d90-b185-7b0e24896f8f)
 
 
